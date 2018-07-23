@@ -1,4 +1,4 @@
-# Asos Behaviour Driven Development Framework
+# ASOS Behaviour Driven Development Framework
 
 Running automation testing on Asos website using Cucumber, Selenium Webdriver, and Capybara.
 
