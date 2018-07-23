@@ -1,4 +1,4 @@
-# Asos_BDD_automation_testing
+# Asos Behaviour Driven Development Framework
 
 Running automation testing on Asos website using Cucumber, Selenium Webdriver, and Capybara.
 
