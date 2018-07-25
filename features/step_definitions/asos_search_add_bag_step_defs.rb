@@ -1,4 +1,4 @@
-PAGE_URL = "http://www.asos.com/asos/asos-design-plus-super-skinny-jeans-in-bleach-wash/prd/9463313?clr=bleachblue&SearchQuery=jeans&gridcolumn=1&gridrow=7&gridsize=4&pge=1&pgesize=72&totalstyles=5426"
+PAGE_URL = "http://www.asos.com/asos/asos-design-plus-super-skinny-jeans-in-bleach-wash/prd/9463313?clr=bleachblue&SearchQuery=jeans&gridcolumn=1&gridrow=7&gridsize=4&pge=1&pgesize=72&totalstyles=5432"
 
 PRODUCT = 'ASOS DESIGN Plus super skinny jeans in bleach wash'
 
